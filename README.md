@@ -19,15 +19,8 @@ A full-stack food delivery platform built with React (Vite) for the frontend and
 
 ## System Architecture
 
-```
-[ User App ] <-> [ Backend API ] <-> [ MongoDB ]
-		|                |
-		|                +--[Socket.IO]--<-> [Delivery Boy App]
-		|                |
-		+--[Razorpay]----+
-		|
-[ Owner App ]
-```
+<img width="975" height="511" alt="diagram-export-9-13-2025-7_50_26-PM" src="https://github.com/user-attachments/assets/1c451c1a-bf56-4c6c-9e58-a5fe2bf01bd7" />
+
 
 - **Frontend**: React (Vite), Redux, Axios, Socket.IO-client
 - **Backend**: Node.js, Express, Socket.IO, MongoDB (Mongoose), Razorpay
