@@ -1,5 +1,5 @@
 
-# Vingo Food Delivery App
+# Food Delivery App
 
 A full-stack food delivery platform built with React (Vite) for the frontend and Node.js/Express/MongoDB for the backend. It supports user, owner, and delivery boy roles, real-time order tracking, and online payments via Razorpay.
 
